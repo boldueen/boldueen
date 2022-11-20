@@ -3,26 +3,15 @@
 
 
 ### How to reach me: <strong>(Click on the badge)</strong>
+<div align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" href="nikon2283@gmail.com">   
+  <img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" href="https://www.instagram.com/nikon_off_">
 
-<img src="https://img.shields.io/badge/nikon2283@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="nikon2283@gmail.com">   
-<a  href="https://www.instagram.com/nikon_off_/">
- 
- <img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg"></a>
-
-
+</div>
 ### Tools I work upon : 🛠
 
-<!-- <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">   
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">   
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">   
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">  
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white">   
-<img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> -->
 
-<div align="center>
+<div align="center">
   <img alt="Python" height="32px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
   <img alt="FastAPI" height="32px" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" />
 
