@@ -2,9 +2,10 @@
   <img src="https://profile-counter.glitch.me/boldueen/count.svg" />
 
 
-### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
+### How to reach me: <strong>(Click on the badge)</strong>
 
-<img src="https://img.shields.io/badge/nikon2283@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="nikon2283@gmail.com">   <a  href="https://www.instagram.com/sharannyo_/"><img src="https://img.shields.io/badge/@nikon_off_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<img src="https://img.shields.io/badge/nikon2283@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="nikon2283@gmail.com">   <a  href="https://www.instagram.com/nikon_off_/">
+ <img src="https://img.shields.io/badge/@nikon_off_.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
 ### Tools I work upon : 🛠
