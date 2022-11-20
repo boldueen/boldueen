@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white">   
 <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> -->
 
-
+<div align="center>
   <img alt="Python" height="32px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
   <img alt="FastAPI" height="32px" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" />
 
@@ -39,7 +39,7 @@
   <img alt="Git" height="32px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
 
   <br />
-
+</div>
 
 ### Here are some ideas to help you get started:
 
