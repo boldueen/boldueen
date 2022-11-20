@@ -4,8 +4,8 @@
 
 ### How to reach me: <strong>(Click on the badge)</strong>
 <div align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" href="nikon2283@gmail.com">   
-  <img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" href="https://www.instagram.com/nikon_off_">
+  <img height="32px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" href="nikon2283@gmail.com">   
+  <img height="32px" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" href="https://www.instagram.com/nikon_off_">
 
 </div>
 ### Tools I work upon : 🛠
