@@ -12,7 +12,7 @@
     <img height="45"src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg">
   </a>
   
-  <a href="nikon2283@gmail.com">
+  <a href="mailto:nikon2283@gmail.com">
     <img height="45" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg">  
   </a>
   
