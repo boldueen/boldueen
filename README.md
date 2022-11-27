@@ -8,7 +8,10 @@
 
 ## How to reach me: <strong>(Click on the icon)</strong>
 <div align="center">
-  <img height="45"src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" href="https://t.me/realnikonoff">
+  <a href="https://t.me/realnikonoff">
+    <img height="45"src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg">
+  </a>
+  
   <img height="45" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" href="nikon2283@gmail.com">   
   <img height="45" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" href="https://www.instagram.com/nikon_off_">
   
