@@ -12,8 +12,16 @@
     <img height="45"src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg">
   </a>
   
-  <img height="45" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" href="nikon2283@gmail.com">   
-  <img height="45" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" href="https://www.instagram.com/nikon_off_">
+  <a href="nikon2283@gmail.com">
+    <img height="45" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg">  
+  </a>
+  
+  <a href="https://www.instagram.com/nikon_off_">
+    <img height="45" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg">
+  </a>
+  
+   
+
   
 </div>
 
